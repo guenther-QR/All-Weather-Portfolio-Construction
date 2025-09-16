@@ -82,4 +82,4 @@ For questions or collaboration opportunities:
 
 ---
 
-*For research/discussion only. Not investment advice.*:contentReference[oaicite:0]{index=0}
+*For research/discussion only. Not investment advice.*
